@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Farman Ali.
+- 👀 I’m interested in Web Development and Machine Learning.
+- 🌱 I’m currently learning Web Full-Stack Web Development.
+- 💞️ I’m looking to collaborate on beginner friendly projects.
+- 📫 You can reach me at X[https://www.twitter.com/farman_al1] and LinkedIn[https://in.linkedin.com].
